@@ -70,7 +70,7 @@ function HeroBanner() {
         {banners.map(banner => (
           <div key={banner.id} className="relative">
             <div className="h-[60vh] sm:h-[70vh] bg-cover bg-center" style={{ backgroundImage: `url(${banner.image})` }}>
-              <div className="absolute inset-0 bg-black bg-opacity-40 flex flex-col items-center justify-center px-4 text-center">
+              <div className="absolute inset-0 flex flex-col items-center justify-center px-4 text-center">
                 {/* <h3 className={`text-lg md:text-xl font-semibold mb-2 ${banner.textColor}`}>{banner.subtitle}</h3>
                 <h2 className={`text-3xl md:text-5xl font-bold mb-4 ${banner.textColor}`}>{banner.title}</h2>
                 <p className={`text-base md:text-lg mb-6 max-w-xl ${banner.textColor}`}>{banner.description}</p>

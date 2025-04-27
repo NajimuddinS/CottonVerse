@@ -9,28 +9,28 @@ function FeaturedCategories() {
     {
       id: 1,
       name: 'T-SHIRTS',
-      image: 'https://images.pexels.com/photos/5868720/pexels-photo-5868720.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+      image: 'https://www.redwolf.in/image/cache/catalog/featured_categories/t-shirts-for-men-featured-480x480.jpg?m=1709881172',
       link: '/categories/t-shirts',
       bgColor: 'bg-red-500'
     },
     {
       id: 2,
       name: 'OVERSIZED',
-      image: 'https://images.pexels.com/photos/6311475/pexels-photo-6311475.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+      image: 'https://www.redwolf.in/image/cache/catalog/featured_categories/oversized-t-shirts-india-featured-480x480.jpg?m=1709881172',
       link: '/categories/oversized',
       bgColor: 'bg-blue-500'
     },
     {
       id: 3,
       name: 'SOCKS',
-      image: 'https://images.pexels.com/photos/6046235/pexels-photo-6046235.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+      image: 'https://www.redwolf.in/image/cache/catalog/featured_categories/featured-category-socks-23-480x480.jpg?m=1706184531',
       link: '/categories/socks',
       bgColor: 'bg-orange-500'
     },
     {
       id: 4,
       name: 'COASTERS',
-      image: 'https://images.pexels.com/photos/3669288/pexels-photo-3669288.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+      image: 'https://www.redwolf.in/image/cache/catalog/featured_categories/featured-category-coasters-23-480x480.jpg?m=1706184531',
       link: '/categories/coasters',
       bgColor: 'bg-pink-500'
     },
