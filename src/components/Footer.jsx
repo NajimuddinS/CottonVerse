@@ -81,15 +81,15 @@ function Footer() {
             <ul className="space-y-3">
               <li className="flex items-start">
                 <FiMapPin className="mt-1 mr-3 text-primary" />
-                <span className="text-gray-300">123 Cotton Ave, Fashion District, 12345</span>
+                <span className="text-gray-300">2, Behind Al-Ajar Law Firm, Rahul Nagar, Opp S K Rai College, P L Lokhande Marg, Chembur, Mumbai - 400089 </span>
               </li>
               <li className="flex items-center">
                 <FiPhone className="mr-3 text-primary" />
-                <span className="text-gray-300">+1 (123) 456-7890</span>
+                <span className="text-gray-300">+91 79777 94548</span>
               </li>
               <li className="flex items-center">
                 <FiMail className="mr-3 text-primary" />
-                <span className="text-gray-300">support@cottonverse.com</span>
+                <span className="text-gray-300">cottonverses@gmail.com</span>
               </li>
             </ul>
           </div>
