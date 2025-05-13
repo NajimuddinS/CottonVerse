@@ -256,7 +256,7 @@ function Navbar() {
               <div key={key} className="static group">
                 <Link 
                   to={`/${key}`} 
-                  className="nav-link flex items-center font-bold text-xs lg:text-sm font-sans py-1"
+                  className="nav-link flex items-center font-bold text-xs lg:text-base font-sans py-1"
                 >
                   {category.title}
                   <FiChevronDown className="ml-1 h-3 w-3 group-hover:rotate-180 transition-transform duration-200" />
